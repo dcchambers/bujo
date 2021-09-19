@@ -1,0 +1,2 @@
+# bujo
+CLI Bullet Journal
